@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TankSwing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TankSwing_jar</output-path>
+    <root id="archive" name="TankSwing.jar">
+      <element id="module-output" name="TankSwing" />
+    </root>
+  </artifact>
+</component>
